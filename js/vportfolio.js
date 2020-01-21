@@ -4,7 +4,7 @@ console.clear();
 const TypingText = document.querySelector(".typed-text");
 const AutoTyping = document.querySelector(".TypeCursor");
 
-const textArray = ["Creative.", "Versitile.", "Logical.", "A dreamer.", "Caroline."];
+const textArray = ["Creative.", "Versitile.", "Logical.", "a Dreamer.", "Caroline."];
 const typingDelay = 100;
 const erasingDelay = 50;
 const newTextDelay = 2000;
