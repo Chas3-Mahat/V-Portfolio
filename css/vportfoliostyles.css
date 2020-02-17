@@ -8,3 +8,10 @@ body {
   background-color: rgb(0, 102, 0);
   font-size: 110%;
 }
+
+.shapes {
+  flex: auto;
+  border-radius: 50px;
+  width: 30vw;
+  height: 30vw;
+}
