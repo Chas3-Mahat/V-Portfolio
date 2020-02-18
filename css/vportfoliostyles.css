@@ -6,12 +6,17 @@ body {
 
 .banner {
   background-color: rgb(0, 102, 0);
-  font-size: 110%;
+  font-size: 120%;
+  margin: auto;
 }
 
 .shapes {
-  flex: auto;
   border-radius: 50px;
   width: 30vw;
   height: 30vw;
+}
+
+.navbar {
+  background-color: white;
+  color:  rgb(72,72,72);
 }
