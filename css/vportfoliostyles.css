@@ -4,10 +4,22 @@ body {
   color: white;
 }
 
+a {
+  color: white;
+  transition: 0.6s ease;
+}
+
+a:hover{
+  color: blue;
+  transition: 0.6s ease;
+}
+
 .banner {
   background-color: rgb(0, 102, 0);
   font-size: 120%;
   margin: auto;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .shapes {
@@ -22,8 +34,8 @@ body {
 }
 
 #magazine{
-	width: 800px;
-	height: 400px;
+	width: 80vw;
+	height: 40vh;
 }
 #magazine .turn-page{
 	background-color:#ccc;
