@@ -46,3 +46,5 @@ document.addEventListener("DOMContentLoaded", function() {
 tion.jsJavaScript
 
 var $header_top = $('.header-top');
+/*page turn.js*/
+$('#magazine').turn({gradients: true, acceleration: true});
